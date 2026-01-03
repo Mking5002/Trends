@@ -1,0 +1,2 @@
+# Trends
+WhatsApp finance bot
